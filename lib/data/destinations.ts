@@ -1,0 +1,32 @@
+import { NodePoint } from "../types";
+
+export const destinationPoints: NodePoint[] = [
+  { id: "dest-nigeria", name: "Nigeria", type: "destination", lat: 9.082, lng: 8.6753 },
+  { id: "dest-kenya", name: "Kenya", type: "destination", lat: -0.0236, lng: 37.9062 },
+  { id: "dest-ghana", name: "Ghana", type: "destination", lat: 7.9465, lng: -1.0232 },
+  { id: "dest-civ", name: "Côte d’Ivoire", type: "destination", lat: 7.54, lng: -5.5471 },
+  { id: "dest-maroc", name: "Maroc", type: "destination", lat: 31.7917, lng: -7.0926 },
+  { id: "dest-southafrica", name: "Afrique du Sud", type: "destination", lat: -30.5595, lng: 22.9375 },
+  { id: "dest-senegal", name: "Sénégal", type: "destination", lat: 14.4974, lng: -14.4524 },
+  { id: "dest-rwanda", name: "Rwanda", type: "destination", lat: -1.9403, lng: 29.8739 },
+  { id: "dest-tanzania", name: "Tanzanie", type: "destination", lat: -6.369, lng: 34.8888 },
+  { id: "dest-uganda", name: "Ouganda", type: "destination", lat: 1.3733, lng: 32.2903 },
+  { id: "dest-zambia", name: "Zambie", type: "destination", lat: -13.1339, lng: 27.8493 },
+  { id: "dest-egypt", name: "Égypte", type: "destination", lat: 26.8206, lng: 30.8025 },
+  { id: "dest-cameroon", name: "Cameroun", type: "destination", lat: 7.3697, lng: 12.3547 },
+  { id: "dest-brazil", name: "Brésil", type: "destination", lat: -14.235, lng: -51.9253 },
+  { id: "dest-mexico", name: "Mexique", type: "destination", lat: 23.6345, lng: -102.5528 },
+  { id: "dest-usa", name: "États Unis", type: "destination", lat: 37.0902, lng: -95.7129 },
+  { id: "dest-uae", name: "Emirats Arabes Unis", type: "destination", lat: 23.4241, lng: 53.8478 },
+  { id: "dest-ksa", name: "Arabie saoudite", type: "destination", lat: 23.8859, lng: 45.0792 },
+  { id: "dest-qatar", name: "Qatar", type: "destination", lat: 25.3548, lng: 51.1839 },
+  { id: "dest-bahrain", name: "Bahrein", type: "destination", lat: 26.0667, lng: 50.5577 },
+  { id: "dest-kuwait", name: "Kuwait", type: "destination", lat: 29.3759, lng: 47.9774 },
+  { id: "dest-vietnam", name: "Vietnam", type: "destination", lat: 14.0583, lng: 108.2772 },
+  { id: "dest-france", name: "France", type: "destination", lat: 46.2276, lng: 2.2137 },
+  { id: "dest-spain", name: "Espagne", type: "destination", lat: 40.4637, lng: -3.7492 },
+  { id: "dest-italy", name: "Italie", type: "destination", lat: 41.8719, lng: 12.5674 },
+  { id: "dest-portugal", name: "Portugal", type: "destination", lat: 39.3999, lng: -8.2245 },
+  { id: "dest-uk", name: "RoyaumeUni", type: "destination", lat: 55.3781, lng: -3.436 },
+  { id: "dest-germany", name: "Allemagne", type: "destination", lat: 51.1657, lng: 10.4515 }
+];
